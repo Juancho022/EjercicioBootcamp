@@ -1,12 +1,12 @@
-a. Leche
-b. Pan
-c. Lechuga
-d. Tomate
-e. Cebolla
-f. Queso Cremoso
-g. Huevos
-h. Harina
-i. Aceite
-j. Vinagre
+Leche
+Pan
+Lechuga
+Tomate
+Cebolla
+Queso Cremoso
+Huevos
+Harina
+Aceite
+Vinagre
 
 
